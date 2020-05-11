@@ -1,0 +1,52 @@
+.col-md-2{
+	background: #e6e6ff;
+	height: 600px;
+    margin-top: -20px;
+}
+.col-md-8{
+	background: white;
+	height: 600px;
+    margin-top: -20px;
+}
+.sl{
+	width: 20%;
+	margin-top: -20px;
+	list-style: none;
+	font-size: 22px;
+	text-align: center;
+	background: #f1f1f1;
+	float: left;
+}
+div a{
+    font-family: "Segoe UI",Arial,sans-serif;
+    display: block;
+    padding: 2px 1px 1px 16px;
+    text-decoration: none;
+}
+#leftList div:hover{
+	color: #000!important;
+    background-color: #cccccc;
+
+}
+
+.rl{
+	width: 20%;
+	margin-top: -20px;
+	background: pink;
+	height: 680px;
+	float: right;
+
+}
+.ml{
+	width: 60%;
+	margin-top: -20px;
+	background: red;
+	height: 680px;
+	float: left;
+}
+.footer{
+	width: 100%;
+	background: grey;
+	text-align: center;
+    clear: both;
+}
